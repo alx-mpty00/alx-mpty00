@@ -2,7 +2,7 @@
 - 👀 I’m interested in application programming
 - 🌱 I’m currently learning SVG (Scalable Vector Graphics) and Python
 - 🌱 Then, with Python, I am generating files in SVG format (.svg)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on (I'm still not sure what I could collaborate on)
 - 📫 How to reach me ...
 
 <!---
